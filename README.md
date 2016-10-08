@@ -1,6 +1,6 @@
 # Intent1
 # INTENT 1 <br>
-# ScreenShoot: <br> <br> <br>
+# SCREENSHOOT:<br>
 Belum Menambahkan Up/Back Navigation atau Masih menggunakan on back pressed atau button back<br>
 Tampilan Awal <br>
 ![menggunakan buttonbackpressed1](https://cloud.githubusercontent.com/assets/21364340/19213859/c00a59f8-8d9f-11e6-83c0-e09a3cafb979.png)
@@ -15,11 +15,10 @@ Tampilan Awal<br>
 Setelah ditekan button Hitung<br>
 ![startactivity part 2 2](https://cloud.githubusercontent.com/assets/21364340/19213860/c00abe70-8d9f-11e6-8296-3a88e88e1309.png)
 <br>
-#Link APK <br>
+# LINK APK <br>
 https://drive.google.com/open?id=0B2j5Yd_9Vxeoczgwc2F0dGFvNVk
-<br> <br> <br>
-
-# Identitas <br>
+<br> 
+# IDENTITAS <br>
 NAMA : LOUISA GABRIELLA <br>
 KELAS : XI RPL 5 <br>
 No URUT : 16 <br> 
