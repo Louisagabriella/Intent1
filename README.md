@@ -15,9 +15,6 @@ Tampilan Awal<br>
 Setelah ditekan button Hitung<br>
 ![startactivity part 2 2](https://cloud.githubusercontent.com/assets/21364340/19213860/c00abe70-8d9f-11e6-8296-3a88e88e1309.png)
 <br>
-# LINK APK <br>
-https://drive.google.com/open?id=0B2j5Yd_9Vxeoczgwc2F0dGFvNVk
-<br> 
 # IDENTITAS <br>
 NAMA : LOUISA GABRIELLA <br>
 KELAS : XI RPL 5 <br>
